@@ -1,6 +1,7 @@
 # About
 Simple, free to use, open source Minecraft AutoClicker.
 
+Download [here](https://github.com/bladeskilled/BladeClicker/blob/main/BladeClicker.exe?raw=true).
 
 GUI Preview:
 
