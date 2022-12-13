@@ -15,4 +15,4 @@ GUI Preview:
 
 
 
-(![Capture](https://user-images.githubusercontent.com/109127903/207218511-0eada760-4317-438b-897b-beaee33c4fb6.PNG)
+![Capture](https://user-images.githubusercontent.com/109127903/207218511-0eada760-4317-438b-897b-beaee33c4fb6.PNG)
