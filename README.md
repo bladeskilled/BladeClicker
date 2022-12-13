@@ -15,4 +15,4 @@ GUI Preview:
 
 
 
-![Clicker](https://user-images.githubusercontent.com/109127903/205467848-f43ef093-f5b8-4039-9350-b44b188908fd.png)
+![Clicker](![Capture](https://user-images.githubusercontent.com/109127903/207218511-0eada760-4317-438b-897b-beaee33c4fb6.PNG)
