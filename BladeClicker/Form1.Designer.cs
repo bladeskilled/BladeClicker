@@ -129,7 +129,7 @@ namespace BladeClicker
             // Random
             // 
             this.Random.Enabled = true;
-            this.Random.Interval = 400;
+            this.Random.Interval = 500;
             this.Random.Tick += new System.EventHandler(this.Random_Tick);
             // 
             // panel1
